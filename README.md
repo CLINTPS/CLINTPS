@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CLINTPS
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Full stack development
+- 🌱 I’m currently learning MERN Full stack development
 - 📫 How to reach me clintps1010@gmail.com
 
 <!---
